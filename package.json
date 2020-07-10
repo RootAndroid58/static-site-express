@@ -36,6 +36,7 @@
     "chokidar": "^2.0.4",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "faunadb": "^2.14.2",
     "front-matter": "^2.3.0",
     "fs-extra": "^5.0.0",
     "helmet": "^3.12.1",

@@ -1,6 +1,11 @@
 $(document).ready(function () {
   $('#deploy').click(function () {
-    window.location.href = 'https://app.netlify.com/start/deploy?repository=https://github.com/SalsaBoy990/static-site-express'
+    /*window.location.href = 'https://www.youtube.com/channel/UCfYROGdQWhVBK9U1PNrjJeQ'
+    window.location.target = '_blank'*/
+    window.open(
+      'https://www.youtube.com/channel/UCfYROGdQWhVBK9U1PNrjJeQ',
+      '_blank' // <- This is what makes it open in a new window.
+    );
   })
 
   // Add smooth scrolling to all links

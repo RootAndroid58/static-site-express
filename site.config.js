@@ -9,6 +9,7 @@ module.exports = {
     description: 'A simple website created for tutorial purposes',
     currentYear: new Date().getFullYear(),
     google_analytics: 'UA-102175504-2',
-    github: 'https://github.com/RootAndroid58'
+    github: 'https://github.com/RootAndroid58',
+    db:'fnADwZOQ03ACEry0vZjWd5iY7EHxP-xi0An6I-7u'
   }
 }
