@@ -3,7 +3,7 @@ module.exports = {
   site: {
     url: 'https://static-site-express.netlify.com/',
     title: `Root Android And Ethical Hacker`,
-    defaultImage: '/assets/images/channel.jpg',
+    defaultImage: '/assets/images/static.jpg',
     author: 'ETHYT',
     quote: 'A website created for tutorial purpose',
     description: 'A simple website created for tutorial purposes',
