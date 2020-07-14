@@ -39,6 +39,7 @@
     "faunadb": "^2.14.2",
     "front-matter": "^2.3.0",
     "fs-extra": "^5.0.0",
+    "googleapis": "^39.2.0",
     "helmet": "^3.12.1",
     "helmet-csp": "^2.7.0",
     "highlightjs": "^9.10.0",
