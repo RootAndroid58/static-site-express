@@ -1,0 +1,1014 @@
+{
+  "1": {
+    "name": "3000-years",
+    "description": "Draws a user's avatar over Pokémon's \"It's been 3000 years\" meme.",
+    "usage": "3ky",
+    "aliases": "3ky\",\"3k-years",
+    "category": "meme-gen"
+  },
+  "2": {
+    "name": "addrole",
+    "description": "Adds a role to a member of the guild!",
+    "usage": "addrole <@user> <@role mention> <reason in text>",
+    "aliases": "ar\",\"roleadd",
+    "category": "Moderation"
+  },
+  "3": {
+    "name": "amazeme",
+    "description": "Sends a message to amaze you !",
+    "usage": "amazeme",
+    "aliases": "amazeme",
+    "category": "Fun"
+  },
+  "4": {
+    "name": "anime",
+    "description": "Anime Help command on how to use anime commands",
+    "usage": "anime",
+    "aliases": "Na",
+    "category": "Anime"
+  },
+  "5": {
+    "name": "apex",
+    "description": "Displays a user's apex stats!",
+    "usage": "<user> <platform>",
+    "aliases": "apec",
+    "category": "Games"
+  },
+  "6": {
+    "name": "apod",
+    "description": "Responds with today's Astronomy Picture of the Day.",
+    "usage": "xkcd <search|latest> (id)",
+    "aliases": "astronomy-picture-of-the-day",
+    "category": "Fun"
+  },
+  "7": {
+    "name": "ban",
+    "description": "Bans the member",
+    "usage": "ban <@user> <reason in text>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "8": {
+    "name": "base64",
+    "description": "Converts text to/from Base64.",
+    "usage": "base64 <mode> <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "9": {
+    "name": "bassboost",
+    "description": "Adds bass boost to the audio",
+    "usage": "bassboost <on/off>",
+    "aliases": "bb",
+    "category": "Music"
+  },
+  "10": {
+    "name": "be-like-bill",
+    "description": "Sends a \"Be Like Bill\" meme with the name of your choice.",
+    "usage": "belike <name>",
+    "aliases": "belike",
+    "category": "meme-gen"
+  },
+  "11": {
+    "name": "beautiful",
+    "description": "Draws a user's avatar over Gravity Falls' \"Oh, this? This is beautiful.\" meme",
+    "usage": "beauty <@user>",
+    "aliases": "this-is-beautiful\",\"grunkle-stan\",\"beauty",
+    "category": "meme-gen"
+  },
+  "12": {
+    "name": "binary",
+    "description": "Converts text to binary.",
+    "usage": "binary <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "13": {
+    "name": "book",
+    "description": "Searches Google Books for a book.",
+    "usage": "book <query>",
+    "aliases": "google-book\",\"gbook",
+    "category": "search"
+  },
+  "14": {
+    "name": "braille",
+    "description": "Converts text to braille.",
+    "usage": "braille <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "15": {
+    "name": "brony-speak",
+    "description": "Converts text to brony speak.",
+    "usage": "brony-speak <text>",
+    "aliases": "pony-speak",
+    "category": "text-edit"
+  },
+  "16": {
+    "name": "bug",
+    "description": "reports the owner of a bug",
+    "usage": "bug <issue>",
+    "aliases": "reportbug\",\"report-bug",
+    "category": "Moderation"
+  },
+  "17": {
+    "name": "calendar",
+    "description": "Responds with today's holidays.",
+    "usage": "calendar",
+    "aliases": "holidays\",\"events",
+    "category": "Fun"
+  },
+  "18": {
+    "name": "clap",
+    "description": "Sends 👏 text 👏 like 👏 this.",
+    "usage": "clap <text>",
+    "aliases": "clapping",
+    "category": "text-edit"
+  },
+  "19": {
+    "name": "clean",
+    "description": "Bulk cleans the messages",
+    "usage": "clean <number of messages 1-100>",
+    "aliases": "proune\",\"cleanup\",\"delete",
+    "category": "Moderation"
+  },
+  "20": {
+    "name": "cleanani",
+    "description": "Purges any completed shows from this channel's watch list.",
+    "usage": "cleanani",
+    "aliases": "Na",
+    "category": "Anime"
+  },
+  "21": {
+    "name": "conf",
+    "description": "Modify the default configuration for all guilds.",
+    "usage": "conf <view/get/edit> <key> <value>",
+    "aliases": "defaults",
+    "category": "System"
+  },
+  "22": {
+    "name": "corona",
+    "description": "Sends you letest news about corona virus Be Care Full !",
+    "usage": "corona",
+    "aliases": "covid-19",
+    "category": "Fun"
+  },
+  "23": {
+    "name": "csgo",
+    "description": "Displays a user's csgo stats!",
+    "usage": "csgo <steamid or custom url>",
+    "aliases": "cs-go",
+    "category": "Games"
+  },
+  "24": {
+    "name": "csgow",
+    "description": "Displays a user's csgo weapons stats!",
+    "usage": "csgow <steamid or custom url>",
+    "aliases": "cs-gow",
+    "category": "Games"
+  },
+  "25": {
+    "name": "cursive",
+    "description": "Converts text to cursive.",
+    "usage": "cursive <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "26": {
+    "name": "drankrate",
+    "description": "this command will rank your dankness.",
+    "usage": "drankrate <@user>",
+    "aliases": "dank\",\"d%\",\"%d",
+    "category": "Fun"
+  },
+  "27": {
+    "name": "demotivational",
+    "description": "Draws an image or a user's avatar and the text you specify as a demotivational poster.",
+    "usage": "demotivational <title> <@user> <text>",
+    "aliases": "demotivational-poster",
+    "category": "meme-gen"
+  },
+  "28": {
+    "name": "dhero",
+    "description": "Displays dota 2 heros stats!",
+    "usage": "dhero <hero name>",
+    "aliases": "Na",
+    "category": "Games"
+  },
+  "29": {
+    "name": "discord-card",
+    "description": "Draws a user's avatar on a Discord's Trading Card.",
+    "usage": "dcard <@user>",
+    "aliases": "dcard",
+    "category": "meme-gen"
+  },
+  "30": {
+    "name": "dleaderboard",
+    "description": "Displays dota 2 leaderboard!",
+    "usage": "dlb",
+    "aliases": "dlb",
+    "category": "Games"
+  },
+  "31": {
+    "name": "donate",
+    "description": "Responds with the bot's donation links.",
+    "usage": "donate",
+    "aliases": "paypal",
+    "category": "Miscellaneous"
+  },
+  "32": {
+    "name": "dota",
+    "description": "Displays a user's dota2 stats!",
+    "usage": "dota <steamid or custom url>",
+    "aliases": "dota2",
+    "category": "Games"
+  },
+  "33": {
+    "name": "dvorak",
+    "description": "Converts text to Dvorak encoding.",
+    "usage": "dvorak <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "34": {
+    "name": "embed",
+    "description": "Sends text in an embed.",
+    "usage": "embed <Description>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "35": {
+    "name": "emojify",
+    "description": "Converts text to emoji form.",
+    "usage": "emojify <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "36": {
+    "name": "equalizer",
+    "description": "adds an equalizing effect to playing music",
+    "usage": ".eq <on/off/help/h>",
+    "aliases": "eq",
+    "category": "Music"
+  },
+  "37": {
+    "name": "eval",
+    "description": "Evaluates arbitrary javascript.",
+    "usage": "eval [...code]",
+    "aliases": "Na",
+    "category": "System"
+  },
+  "38": {
+    "name": "fakeban",
+    "description": "Bans a user from the server*. Oh, not really though, just to mess with them.",
+    "usage": "fakeBan [ @USER_MENTION | USER_ID ]",
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "39": {
+    "name": "fancy",
+    "description": "Converts text to fancy letters.",
+    "usage": "fancy <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "40": {
+    "name": "f-spin",
+    "description": "Spins a fidget spinner for you and shows for how long it was spinning.",
+    "usage": "fspin",
+    "aliases": "fspin",
+    "category": "Fun"
+  },
+  "41": {
+    "name": "fortnite",
+    "description": "Get steam stats of a user",
+    "usage": "<user> <platform>",
+    "aliases": "ftn",
+    "category": "Games"
+  },
+  "42": {
+    "name": "giphy",
+    "description": "Searches Giphy for your query.",
+    "usage": "giphy <query>",
+    "aliases": "gif",
+    "category": "search"
+  },
+  "43": {
+    "name": "google-autofill",
+    "description": "Responds with a list of the Google Autofill results for a particular query.",
+    "usage": "autofill <query>",
+    "aliases": "google-autocomplete\",\"autofill\",\"autocomplete",
+    "category": "search"
+  },
+  "44": {
+    "name": "gravatar",
+    "description": "Responds with the Gravatar for an email.",
+    "usage": "gravatar <email>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "45": {
+    "name": "hastebin",
+    "description": "saves the message to hastebin",
+    "usage": "hastebin <your complete message>",
+    "aliases": "pastebin",
+    "category": "Miscellaneous"
+  },
+  "46": {
+    "name": "help",
+    "description": "Displays all the available commands for your permission level.",
+    "usage": "help [command]",
+    "aliases": "h",
+    "category": "System"
+  },
+  "47": {
+    "name": "hex",
+    "description": "Converts text to hex.",
+    "usage": "hex <text>",
+    "aliases": "hexidecimal",
+    "category": "text-edit"
+  },
+  "48": {
+    "name": "humble-bundle",
+    "description": "Responds with the current Humble Bundle.",
+    "usage": "humbler",
+    "aliases": "humbler",
+    "category": "Fun"
+  },
+  "49": {
+    "name": "invite",
+    "description": "Sends you the invite link for bot and server",
+    "usage": "invite",
+    "aliases": "inv\",\"i",
+    "category": "Fun"
+  },
+  "50": {
+    "name": "ip",
+    "description": "Responds with information on given ip adderss.",
+    "usage": "ip <valid ip adders>",
+    "aliases": "iplookup\",\"geoip",
+    "category": "search"
+  },
+  "51": {
+    "name": "itunes",
+    "description": "Searches iTunes for your query.",
+    "usage": "itunes <country> <query>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "52": {
+    "name": "joke",
+    "description": "Sends a Joke to a channel !",
+    "usage": "joke",
+    "aliases": "laugh\",\"jokes",
+    "category": "Fun"
+  },
+  "53": {
+    "name": "kick",
+    "description": "Kicks the member",
+    "usage": "kick <id | mention>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "54": {
+    "name": "latlmes",
+    "description": "Creates a Latlmes fake News link that redirects to a rickroll.",
+    "usage": "latlmes <section> <query>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "55": {
+    "name": "leave",
+    "description": "stops the audio",
+    "usage": "stop",
+    "aliases": "stop",
+    "category": "Music"
+  },
+  "56": {
+    "name": "googleit",
+    "description": "Creates a LMGTFY link with the query you provide.",
+    "usage": "googleit <query>",
+    "aliases": "let-me-google-that-for-you\",\"go-google\",\"lmgtfy",
+    "category": "text-edit"
+  },
+  "57": {
+    "name": "log",
+    "description": "change the logging channel of the server",
+    "usage": "log -v <#channelid> -o <#channelid> or log -a <#channelid>",
+    "aliases": "setlog\",\"logchannel",
+    "category": "System"
+  },
+  "58": {
+    "name": "love",
+    "description": "Calculates the love affinity you have for another person.",
+    "usage": "love [mention | id | username]",
+    "aliases": "affinity",
+    "category": "Fun"
+  },
+  "59": {
+    "name": "lowercase",
+    "description": "Converts text to lowercase.",
+    "usage": "lowercase <text>",
+    "aliases": "to-lowercase",
+    "category": "text-edit"
+  },
+  "60": {
+    "name": "md5",
+    "description": "Creates a hash of text with the MD5 algorithm.",
+    "usage": "md5 <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "61": {
+    "name": "mdn",
+    "description": "Searches MDN for your query.",
+    "usage": "mdn <query>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "62": {
+    "name": "membercount",
+    "description": "Sends a message of total members in server",
+    "usage": "membercount",
+    "aliases": "memcount\",\"totalmem",
+    "category": "Moderation"
+  },
+  "63": {
+    "name": "meme",
+    "description": "Sends an epic meme",
+    "usage": "meme",
+    "aliases": "Na",
+    "category": "meme-gen"
+  },
+  "64": {
+    "name": "mocking",
+    "description": "SenDs TexT lIkE ThiS.",
+    "usage": "mock <text>",
+    "aliases": "mock",
+    "category": "text-edit"
+  },
+  "65": {
+    "name": "morse",
+    "description": "Converts text to morse code.",
+    "usage": "morse <text>",
+    "aliases": "morse-code",
+    "category": "text-edit"
+  },
+  "66": {
+    "name": "movie",
+    "description": "Searches IMDB for your query, getting movie results.",
+    "usage": "movie <query>",
+    "aliases": "tmdb-movie\",\"imdb",
+    "category": "search"
+  },
+  "67": {
+    "name": "mute",
+    "description": "Mutes members in a server",
+    "usage": "mute <user>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "68": {
+    "name": "mylevel",
+    "description": "Tells you your permission level for the current message location.",
+    "usage": "mylevel",
+    "aliases": "Na",
+    "category": "Miscellaneous"
+  },
+  "69": {
+    "name": "nasa",
+    "description": "Searches NASA's image archive for your query.",
+    "usage": "nasa <query>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "70": {
+    "name": "nobody-name",
+    "description": "Converts a name into the Organization XIII style.",
+    "usage": "nobody-name <text>",
+    "aliases": "organization-name\",\"org-name\",\"organization-xiii-name",
+    "category": "text-edit"
+  },
+  "71": {
+    "name": "nowplaying",
+    "description": "Displays what the bot is currently playing.",
+    "usage": "np",
+    "aliases": "np\",\"now",
+    "category": "Music"
+  },
+  "72": {
+    "name": "npm",
+    "description": "Responds with information on an NPM package",
+    "usage": "npm <pkg name>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "73": {
+    "name": "osu",
+    "description": "Responds with information on an osu! user.",
+    "usage": "osu <user>",
+    "aliases": "Na",
+    "category": "search"
+  },
+  "74": {
+    "name": "overwatch",
+    "description": "Displays your overwatch stats!",
+    "usage": "<user> (platform)",
+    "aliases": "owstats\",\"ow",
+    "category": "Games"
+  },
+  "75": {
+    "name": "owo",
+    "description": "OwO.",
+    "usage": "owo <text>",
+    "aliases": "furry-speak\",\"fur-speak",
+    "category": "text-edit"
+  },
+  "76": {
+    "name": "party",
+    "description": "changes equilizer to party mode",
+    "usage": "party <on/off>",
+    "aliases": "Na",
+    "category": "Music"
+  },
+  "77": {
+    "name": "pause",
+    "description": "Pauses the music(toggle pause and play).",
+    "usage": "pause",
+    "aliases": "Na",
+    "category": "Music"
+  },
+  "78": {
+    "name": "pig-latin",
+    "description": "Converts text to pig latin.",
+    "usage": "pig-latin <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "79": {
+    "name": "pirate",
+    "description": "Converts text to pirate.",
+    "usage": "pirate <text>",
+    "aliases": "pirate-speak",
+    "category": "text-edit"
+  },
+  "80": {
+    "name": "play",
+    "description": "plays audio",
+    "usage": "play <name of song>",
+    "aliases": "p",
+    "category": "Music"
+  },
+  "81": {
+    "name": "playercount",
+    "description": "Displays total no of players in game on Steam!",
+    "usage": "playercount",
+    "aliases": "pcount",
+    "category": "Games"
+  },
+  "82": {
+    "name": "prefix",
+    "description": "change prefix of the server",
+    "usage": "prefix <your new prefix here>",
+    "aliases": "Na",
+    "category": "System"
+  },
+  "83": {
+    "name": "pubg",
+    "description": "Displays a user's pubg stats!",
+    "usage": "pubg -game <PUBG Nickname> <PUBG Platform> | type .pubg -help",
+    "aliases": "pbg",
+    "category": "Games"
+  },
+  "84": {
+    "name": "queue",
+    "description": "displays songs queue",
+    "usage": "queue",
+    "aliases": "playlist",
+    "category": "Music"
+  },
+  "85": {
+    "name": "r6stats",
+    "description": "Displays your rainbow six siege stats for specified player",
+    "usage": "<user> (platform)",
+    "aliases": "rainbow',\"rainbow6",
+    "category": "Games"
+  },
+  "86": {
+    "name": "radio",
+    "description": "Playes radio in the voice channel.",
+    "usage": "radio <channel name>",
+    "aliases": "Na",
+    "category": "Music"
+  },
+  "87": {
+    "name": "random",
+    "description": "Grabs a random image from some internet API.",
+    "usage": [
+      "random <thing> []"
+    ],
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "88": {
+    "name": "read",
+    "description": "reads last saved message form our database",
+    "usage": "read",
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "89": {
+    "name": "reboot",
+    "description": "Shuts down the bot. If running under PM2, bot will restart automatically.",
+    "usage": "reboot",
+    "aliases": "Na",
+    "category": "System"
+  },
+  "90": {
+    "name": "recipe",
+    "description": "Searches for recipes based on your query.",
+    "usage": "recipe <query>",
+    "aliases": "recipe-puppy",
+    "category": "search"
+  },
+  "91": {
+    "name": "reddit",
+    "description": "Responds with information on a Reddit user.",
+    "usage": "reddit <user>",
+    "aliases": "r",
+    "category": "search"
+  },
+  "92": {
+    "name": "reload",
+    "description": "Reloads a command that\"s been modified.",
+    "usage": "reload [command]",
+    "aliases": "Na",
+    "category": "System"
+  },
+  "93": {
+    "name": "removerole",
+    "description": "Removes a role of a member in a guild!",
+    "usage": "removerole <@user> <@Role mention>",
+    "aliases": "rr\",\"roleremove",
+    "category": "Moderation"
+  },
+  "94": {
+    "name": "repeat",
+    "description": "repeats a single song again and again",
+    "usage": "repeat",
+    "aliases": "loop",
+    "category": "Music"
+  },
+  "95": {
+    "name": "queuerepeat",
+    "description": "Repeats complete Queue again and again",
+    "usage": "loopall",
+    "aliases": "repeatq\",\"queue-r\",\"repeatqueue\",\"loopall",
+    "category": "Music"
+  },
+  "96": {
+    "name": "repeattxt",
+    "description": "Repeat text over and over and over and over (etc).",
+    "usage": "repeattxt <amount> <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "97": {
+    "name": "report",
+    "description": "Reports a member",
+    "usage": "report <mention | id>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "98": {
+    "name": "restart",
+    "description": "Shuts down the Client and will try to re log in the bot.",
+    "usage": "restart",
+    "aliases": "Na",
+    "category": "System"
+  },
+  "99": {
+    "name": "reverse",
+    "description": "Reverses text.",
+    "usage": "reverse <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "100": {
+    "name": "rps",
+    "description": "Rock Paper Scissors game. React to one of the emojis to play the game.",
+    "usage": "rps",
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "101": {
+    "name": "rule",
+    "description": "Responds with a rule of the internet.",
+    "usage": "rule <number 1-47>",
+    "aliases": "rule-of-the-internet",
+    "category": "search"
+  },
+  "102": {
+    "name": "seek",
+    "description": "seeks the audio back and fourth",
+    "usage": "seek <time>",
+    "aliases": "Na",
+    "category": "Music",
+    "example": "seek 1h15m2s"
+  },
+  "103": {
+    "name": "lists",
+    "description": "lists all the Name of servers that bot is serving",
+    "usage": "lists",
+    "aliases": "Na",
+    "category": "Miscellaneous"
+  },
+  "104": {
+    "name": "set",
+    "description": "View or change settings for your server.",
+    "usage": "set <view/get/edit> <key> <value>",
+    "aliases": "setting\",\"settings",
+    "category": "System"
+  },
+  "105": {
+    "name": "sha-1",
+    "description": "Creates a hash of text with the SHA-1 algorithm.",
+    "usage": "sha-1 <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "106": {
+    "name": "sha-256",
+    "description": "Creates a hash of text with the SHA-256 algorithm.",
+    "usage": "sha-256 <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "107": {
+    "name": "ship-name",
+    "description": "Creates a ship name from two names.",
+    "usage": "ship-name <start> <end>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "108": {
+    "name": "shuffle",
+    "description": "Loops the Queue",
+    "usage": "shuffle <on/off>",
+    "aliases": "shift",
+    "category": "Music"
+  },
+  "109": {
+    "name": "shuffletxt",
+    "description": "Shuffles text.",
+    "usage": "shuffletxt <query>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "110": {
+    "name": "skip",
+    "description": "skips the current audio in queue",
+    "usage": "skip",
+    "aliases": "s",
+    "category": "Music"
+  },
+  "111": {
+    "name": "snake-speak",
+    "description": "Convertsssss text to sssssnake ssssspeak.",
+    "usage": "snake-speak <text>",
+    "aliases": "snek-speak",
+    "category": "text-edit"
+  },
+  "112": {
+    "name": "splay",
+    "description": "plays audio from soundcloud",
+    "usage": "splay <name of song>",
+    "aliases": "sp\",\"soundcloud\",\"sc\",\"scplay",
+    "category": "Music"
+  },
+  "113": {
+    "name": "spoiler-letter",
+    "description": "Sends text with each and every character as an individual spoiler.",
+    "usage": "spoiler <text>",
+    "aliases": "spoiler",
+    "category": "text-edit"
+  },
+  "114": {
+    "name": "stats",
+    "description": "Gives some useful bot statistics",
+    "usage": "stats",
+    "aliases": "Na",
+    "category": "Miscellaneous"
+  },
+  "115": {
+    "name": "steam",
+    "description": "Get steam stats of a user (requires the Custom URL or just last id)",
+    "usage": "steam <user>",
+    "aliases": "Na",
+    "category": "Games"
+  },
+  "116": {
+    "name": "superscript",
+    "description": "Converts text to tiny text.",
+    "usage": "superscript <text>",
+    "aliases": "tiny-text\",\"small-text",
+    "category": "text-edit"
+  },
+  "117": {
+    "name": "system",
+    "description": "shows the statistics of the bot",
+    "usage": "system",
+    "aliases": "Na",
+    "category": "Miscellaneous"
+  },
+  "118": {
+    "name": "tebahpla",
+    "description": "Reverses the alphabet of text.",
+    "usage": "tebahpla <text>",
+    "aliases": "reverse-alphabet\",\"alphabet-reverse",
+    "category": "text-edit"
+  },
+  "119": {
+    "name": "temmie",
+    "description": "Converts text to Temmie speak.",
+    "usage": "temmie <text>",
+    "aliases": "temmie-speak",
+    "category": "text-edit"
+  },
+  "120": {
+    "name": "thug-life",
+    "description": "Draws \"Thug Life\" over an image or a user's avatar.",
+    "usage": "thug-life <@user>",
+    "aliases": "Na",
+    "category": "meme-gen"
+  },
+  "121": {
+    "name": "to-be-continued",
+    "description": "Draws an image with the \"To Be Continued...\" arrow.",
+    "usage": "tbc <@user>",
+    "aliases": "tbc",
+    "category": "meme-gen"
+  },
+  "122": {
+    "name": "today-in-history",
+    "description": "Responds with an event that occurred today in history.",
+    "usage": "today <month> <day>",
+    "aliases": "today\",\"history",
+    "category": "Fun"
+  },
+  "123": {
+    "name": "triggered",
+    "description": "Draws a user's avatar over the \"Triggered\" meme.",
+    "usage": "triggered <@user>",
+    "aliases": "Na",
+    "category": "meme-gen"
+  },
+  "124": {
+    "name": "typing-test",
+    "description": "See how fast you can type a sentence in a given time limit.",
+    "usage": "typing-test <easy,medium,hard,extreme,impossible>",
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "125": {
+    "name": "unban",
+    "description": "Unbans the member",
+    "usage": "unban <@user> <reason in text>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "126": {
+    "name": "unmute",
+    "description": "Unmutes members in a server",
+    "usage": "unmute <user>",
+    "aliases": "Na",
+    "category": "Moderation"
+  },
+  "127": {
+    "name": "unspoiler",
+    "description": "Removes all spoilers from a message.",
+    "usage": "unspoiler <message id>",
+    "aliases": "Na",
+    "category": "text-edit"
+  },
+  "128": {
+    "name": "unwatch",
+    "description": "Removes an anime from the list. Whatever channel this is used in is the channel the announcements will be made in.",
+    "usage": "unwatch <url of that anime or id MAL/Anilist>",
+    "aliases": "remove\",\"anime-del",
+    "category": "Anime"
+  },
+  "129": {
+    "name": "upcoming",
+    "description": "Displays the next anime to air (in the next 7 days) that the current channel is watching.",
+    "usage": "watch <url of that anime or id MAL/Anilist>",
+    "aliases": "next\",\"up-ani",
+    "category": "Anime"
+  },
+  "130": {
+    "name": "uppercase",
+    "description": "Converts text to uppercase.",
+    "usage": "caps <text>",
+    "aliases": "to-uppercase\",\"all-caps\",\"caps",
+    "category": "text-edit"
+  },
+  "131": {
+    "name": "upside-down",
+    "description": "Flips text upside-down.",
+    "usage": "upside-down <text>",
+    "aliases": "u-down",
+    "category": "text-edit"
+  },
+  "132": {
+    "name": "uptime",
+    "description": "Displays the bots current uptime!",
+    "usage": "uptime",
+    "aliases": "ut",
+    "category": "Miscellaneous"
+  },
+  "133": {
+    "name": "url-decode",
+    "description": "Decodes URL characters to regular characters.",
+    "usage": "url-decode <text/url>",
+    "aliases": "decode-url\",\"decode-uri\",\"uri-decode",
+    "category": "text-edit"
+  },
+  "134": {
+    "name": "url-encode",
+    "description": "Encodes text to URL-friendly characters.",
+    "usage": "url-encode <text/url>",
+    "aliases": "encode-url\",\"encode-uri\",\"uri-encode",
+    "category": "text-edit"
+  },
+  "135": {
+    "name": "volume",
+    "description": "changes volume of the music",
+    "usage": "vol <1-100>",
+    "aliases": "vol\",\"v",
+    "category": "Music"
+  },
+  "136": {
+    "name": "watch",
+    "description": "Adds a new anime to watch for new episodes of. Whatever channel this is used in is the channel the announcements will be made in.",
+    "usage": "watch <url of that anime or id MAL/Anilist>",
+    "aliases": "add\",\"anime-add",
+    "category": "Anime",
+    "extra": "You may provide an AniList entry link, a direct AniList media ID, or a MyAnimeList link."
+  },
+  "137": {
+    "name": "watching",
+    "description": "Prints a list of all anime names being watched that are still currently airing.",
+    "usage": "watching",
+    "aliases": "Na",
+    "category": "Anime"
+  },
+  "138": {
+    "name": "weather",
+    "description": "Responds with weather information for a specific location.",
+    "usage": "weather <location> [zip code]",
+    "aliases": "open-weather-map\",\"owm",
+    "category": "search"
+  },
+  "139": {
+    "name": "whois",
+    "description": "Returns user information",
+    "usage": "whois [username | id | mention]",
+    "aliases": "who\",\"user",
+    "category": "Miscellaneous"
+  },
+  "140": {
+    "name": "wikipedia",
+    "description": "Searches Wikipedia for your query.",
+    "usage": "wiki <query>",
+    "aliases": "wiki",
+    "category": "search"
+  },
+  "141": {
+    "name": "write",
+    "description": "Save 1 message in our database",
+    "usage": "write <message>",
+    "aliases": "save",
+    "category": "Fun"
+  },
+  "142": {
+    "name": "xkcd",
+    "description": "xkcd comics, get the latest or certain comic",
+    "usage": "xkcd <search|latest> (id)",
+    "aliases": "Na",
+    "category": "Fun"
+  },
+  "143": {
+    "name": "youtube",
+    "description": "Searches YouTube for your query.",
+    "usage": "youtube <query>",
+    "aliases": "y-tube\",\"u-tube\",\"yt",
+    "category": "search"
+  },
+  "144": {
+    "name": "zalgo",
+    "description": "Converts text to zalgo",
+    "usage": "zalgo <text>",
+    "aliases": "Na",
+    "category": "text-edit"
+  }
+}

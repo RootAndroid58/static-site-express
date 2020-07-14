@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <%- include partials/head-default.ejs %>
-<body>
+<body style="display: flex;
+flex-direction: column; /* creates rows out of the elements main and footer */
+height: 100vh; 
+margin:0;">
   <%- include partials/header %>
-  <main>
+  <main style="flex: 1 0 auto;">
     <%- body %>
   </main>
   <%- include partials/scripts %>
   <%- include partials/tracking %>
-  <%- include partials/footer-default %>
+  <%- include partials/footer %>
 </body>
 </html>
